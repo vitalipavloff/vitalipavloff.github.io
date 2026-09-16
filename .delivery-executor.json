@@ -1,0 +1,10 @@
+{
+  "executor": "github-pages/v1",
+  "attemptId": "a746c78e-7223-46e7-8bab-6bb8a9470b79",
+  "publishingMode": "deploy-from-branch",
+  "projectId": "my",
+  "profileId": "my.github-pages",
+  "releaseId": "my-pages-first-publication-001",
+  "artifactSha256": "5ad156f8aea753d61e3a4d7028349876494909a3a59f472f6531c343908c5fbd",
+  "sourceSha256": "5ad156f8aea753d61e3a4d7028349876494909a3a59f472f6531c343908c5fbd"
+}
