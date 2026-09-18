@@ -1,10 +1,10 @@
 {
   "executor": "github-pages/v1",
-  "attemptId": "75c46cab-ad96-4d91-ad58-2374701837a9",
+  "attemptId": "e3c5e455-a1f8-4fbb-bfda-b9c0c3768bad",
   "publishingMode": "deploy-from-branch",
   "projectId": "my",
   "profileId": "my.github-pages",
-  "releaseId": "pub-003",
-  "artifactSha256": "9626221fb127fdf94439be2cf96475b00c2fc7f088ecad3c6637a203b614d999",
-  "sourceSha256": "9626221fb127fdf94439be2cf96475b00c2fc7f088ecad3c6637a203b614d999"
+  "releaseId": "pub-004",
+  "artifactSha256": "9b3f8eb4e2e9384c0cbfbed0ff85e3be1172560e048e8ae2a8b0e3fe6a8d41a0",
+  "sourceSha256": "9b3f8eb4e2e9384c0cbfbed0ff85e3be1172560e048e8ae2a8b0e3fe6a8d41a0"
 }
