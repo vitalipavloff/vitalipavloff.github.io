@@ -106,10 +106,10 @@
                     $(".section-wrapper").remove();
                 }, 500);
                 if (!q) {
-                    j("https://vitalipavloff.com/");
+                    j("https://vitalipavloff.github.io/");
                 }
             } else {
-                window.location.href = "https://vitalipavloff.com/";
+                window.location.href = "https://vitalipavloff.github.io/";
             }
         };
         var k = function(q, r, s) {
@@ -133,7 +133,7 @@
         };
         var j = function(r) {
             var q;
-            if (r == "https://vitalipavloff.com/") {
+            if (r == "https://vitalipavloff.github.io/") {
                 q = "home"
             } else {
                 q = r
@@ -268,7 +268,7 @@
         });
         g($(".right-section > div > *"));
         m();
-        j("https://vitalipavloff.com/");
+        j("https://vitalipavloff.github.io/");
         $(".bullets a").on("click", function(s) {
             s.preventDefault();
             var r = parseInt($(this).data("go"));
